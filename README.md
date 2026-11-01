@@ -1,1 +1,2 @@
 # ShopEasy Lite 
+Version: A
