@@ -1,2 +1,2 @@
 # ShopEasy Lite 
-Version: B
+Version: A
