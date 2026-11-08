@@ -1,2 +1,2 @@
 console.log('ShopEasy Lite');
-consol.log('Hello from feature'); 
+console.log('Hello from feature'); 
